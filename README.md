@@ -9,8 +9,7 @@ I specialize in **Python programming** and have experience working with librarie
 ## Tech Stack & Tools
 - **Languages:** Python  
 - **Libraries:** NumPy, Pandas, Matplotlib  
-- **Other Skills:** Cloud Support, Automation, Data Handling
-
+- **Other Skills:** Cloud Support
 ---
 
 # Tech Stack:
